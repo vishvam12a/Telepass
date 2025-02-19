@@ -1,2 +1,0 @@
-# Telepass
-Your personal Passman
