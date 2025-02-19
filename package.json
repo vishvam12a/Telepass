@@ -1,0 +1,9 @@
+{
+  "name": "telegram-password-manager",
+  "private": true,
+  "scripts": {
+    "prestart": "python3 -m pip install -r requirements.txt",
+    "start": "python3 bot.py",
+    "test": "python3 -m unittest test_password_manager.py"
+  }
+}
